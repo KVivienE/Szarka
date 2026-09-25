@@ -11,13 +11,55 @@ a:link{
     color: #DC143C;
 }
 #cimkep{
-    vertical-align: middle;
+   margin: auto;
+   
     
 }
-table{
-    vertical-align: middle;
-    width: 400px;
+.tablazat1{
+    margin: auto;
+     width: 400px;
 }
 #kep1{
-   width: 230px 153px;
+    width: 230px;
+   height:  153px;
+}
+.kep2{
+    float: right;
+    width:  230px;
+    height: 153px;
+   
+}
+hr{
+    text-align: center;
+    width: 70%;
+}
+.tablazat2{
+    margin: auto;
+    width: 500px;
+    margin: 6px;
+    padding: 6px;
+}
+#sor{
+    color: #F0F8FF;
+    background-color: #DC143C;
+}
+.elso{
+    width: 240px;
+    text-align:right ;
+}
+table{
+    border: none;
+}
+tr{
+    border: none;
+}
+td{
+    
+    border: none;
+}
+.tobbi{
+    text-align: center;
+}
+span{
+    text-align: center;
 }
