@@ -15,7 +15,7 @@ a:link{
    
     
 }
-.tablazat1{
+#tablazat1{
     margin: auto;
      width: 400px;
 }
@@ -36,7 +36,7 @@ hr{
 .tablazat2{
     margin: auto;
     width: 500px;
-    margin: 6px;
+   
     padding: 6px;
 }
 #sor{
